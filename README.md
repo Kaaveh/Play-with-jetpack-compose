@@ -10,6 +10,7 @@ You can find sample of:
 <p float="left">
   <img src="screenshots/1.png" width="250"/>
 </p>
+
 ## 02 Dark theme
 <p float="left">
   <img src="screenshots/2-1.png" width="250"/>
